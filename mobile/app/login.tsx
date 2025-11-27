@@ -195,7 +195,7 @@ if (!validatePassword(password)) {
           marginBottom: normalizeVertical(40), 
           marginTop: normalizeVertical(-15) 
         }}>
-          Let's pick up where you left off!
+          Let's pick up from where you left off!
         </Text>
         <View style={{ width: '100%' }}>
           <View style={{ marginBottom: normalizeVertical(15) }}>
